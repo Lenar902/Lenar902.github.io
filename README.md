@@ -1,3 +1,3 @@
 # finance
 
-[Мои доходы](https://lenar902.github.io/finance/)
+[Мои доходы](https://Lenar902.github.io)
